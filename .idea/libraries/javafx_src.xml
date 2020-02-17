@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javafx-src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files/jdk1.8.0_231/javafx-src.zip!/" />
+      <root url="file://C:/Program Files/jdk1.8.0_231" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/jdk1.8.0_231" recursive="false" type="SOURCES" />
+  </library>
+</component>
